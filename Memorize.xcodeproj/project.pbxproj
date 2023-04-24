@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6722082729F7104F0031EF51 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 6722082629F7104F0031EF51 /* LICENSE */; };
+		6722082929F711780031EF51 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6722082829F711780031EF51 /* .gitignore */; };
 		67302AED29F36FE500E84FD4 /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67302AEC29F36FE500E84FD4 /* MemorizeApp.swift */; };
 		67302AEF29F36FE500E84FD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67302AEE29F36FE500E84FD4 /* ContentView.swift */; };
 		67302AF129F36FE600E84FD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67302AF029F36FE600E84FD4 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6722082629F7104F0031EF51 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6722082829F711780031EF51 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		67302AE929F36FE500E84FD4 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67302AEC29F36FE500E84FD4 /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
 		67302AEE29F36FE500E84FD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +39,8 @@
 		67302AE029F36FE500E84FD4 = {
 			isa = PBXGroup;
 			children = (
+				6722082829F711780031EF51 /* .gitignore */,
+				6722082629F7104F0031EF51 /* LICENSE */,
 				67302AEB29F36FE500E84FD4 /* Memorize */,
 				67302AEA29F36FE500E84FD4 /* Products */,
 			);
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6722082929F711780031EF51 /* .gitignore in Resources */,
+				6722082729F7104F0031EF51 /* LICENSE in Resources */,
 				67302AF429F36FE600E84FD4 /* Preview Assets.xcassets in Resources */,
 				67302AF129F36FE600E84FD4 /* Assets.xcassets in Resources */,
 			);
